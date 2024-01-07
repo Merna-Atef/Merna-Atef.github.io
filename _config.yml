@@ -9,7 +9,7 @@ version: 2
 name: Merna Bibars
 title: Teaching Assistant - Research Assistant at Systems & Biomedical Engineering Cairo University 
 email: merna.bibars@gmail.com
-website: https://merna-atef.github.io/
+website: merna-atef.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -25,7 +25,7 @@ github_username:  Merna-Atef
 linkedin_username: merna-bibars
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 orcid_username: 0009-0006-7327-3933
 
