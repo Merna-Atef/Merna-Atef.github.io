@@ -10,7 +10,7 @@ version: 2
 
 # Personal info
 name: Merna Bibars
-title: Teaching & Research Assistant of Systems & Biomedical Engineering at Cairo University 
+title: Teaching & Research Assistant of Systems & Biomedical Engineering at Cairo University, Egypt 
 email: merna.bibars@gmail.com
 website: merna-atef.github.io/
 
@@ -51,7 +51,7 @@ orcid_username: 0009-0006-7327-3933
 # about_title: About Me
 about_profile_image: images/merna.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name's Merna and I'm a Teaching & Research Assistant of Biomedical Engineering at Cairo University. I also just finished my MSc. degree in Biomedical Engineering with a focus on machine learning for medical imaging.
+  My name's Merna and I'm a Teaching & Research Assistant of Biomedical Engineering at Cairo University. I also hold a MSc. degree in Biomedical Engineering with a focus on machine learning for medical imaging.
   I'm interested in pursuing a Ph.D. at the intersection of machine learning and medical imaging, specifically in learning from limited and multimodal medical data.
 
   I am most skilled in: <mark>Machine Learning</mark> and <mark>Research</mark>
@@ -81,7 +81,8 @@ content:
         caption: 2020 - Present
         description: | # this will include new lines to allow paragraphs
           - Designing and implementing course curricula.
-          - Mentoring undergrads’ graduation projects
+          - Supervising undergrads' graduation projects
+          - Mentoring undergrads
       - layout: left
         title: Egypt – USA NIH Joint Project
         sub_title: Research Assistant
