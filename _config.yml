@@ -46,11 +46,12 @@ orcid_username: 0009-0006-7327-3933
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/merna.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  My name's Merna and I'm a Teaching & Research Assistant of Biomedical Engineering at Cairo University. As well as teaching and research experiences, I also just finished my MSc. degree in Biomedical Engineering with a focus on machine learning for medical imaging.
+  I'm interested in pursuing a Ph.D. at the intersection of machine learning and medical imaging, specifically in learning from limited and multimodal medical data.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Machine Learning</mark> and <mark>Research</mark>
 
 content:
   - title: Projects # Title for the section
