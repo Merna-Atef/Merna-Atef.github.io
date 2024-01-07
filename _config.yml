@@ -1,3 +1,6 @@
+# Server Config options
+livereload: true     # You no longer need to include --livereload
+
 # Site
 repository: merna-atef.github.io
 favicon: images/favicon.ico
@@ -48,24 +51,27 @@ orcid_username: 0009-0006-7327-3933
 # about_title: About Me
 about_profile_image: images/merna.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name's Merna and I'm a Teaching & Research Assistant of Biomedical Engineering at Cairo University. As well as teaching and research experiences, I also just finished my MSc. degree in Biomedical Engineering with a focus on machine learning for medical imaging.
+  My name's Merna and I'm a Teaching & Research Assistant of Biomedical Engineering at Cairo University. I also just finished my MSc. degree in Biomedical Engineering with a focus on machine learning for medical imaging.
   I'm interested in pursuing a Ph.D. at the intersection of machine learning and medical imaging, specifically in learning from limited and multimodal medical data.
 
   I am most skilled in: <mark>Machine Learning</mark> and <mark>Research</mark>
 
 content:
   - title: Publications # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: In Print
-        link: https://doi.org/10.1007/978-3-031-48593-0_7
-        link_text: DOI
-        description: | 
-          <mark>Bibars, M.</mark>, Salah, P. E., Eldeib, A., Elattar, M. A., & Yassine, I. A. (n.d.). “Cross-Modality Deep Transfer Learning:
-          Application to Liver Segmentation in CT and MRI” In Waiter, G., Lambrou, T., Leontidis, G., Oren, N., Morris, T.,
-          Gordon, S. (eds) Medical Image Understanding and Analysis. MIUA 2023. Lecture Notes in Computer Science, vol
-          14122. Springer, Cham.
+    layout: text # Type of content section (list/text)
+    content: |
+      - **In Print** cbsdibskj 
+        1. [DOI](https://doi.org/10.1007/978-3-031-48593-0_7)
+      
+        2. [DOI](https://doi.org/10.1007/978-3-031-48593-0_7)
+      
+      - Accepted
+        1. hi
+      
+      - In Preparation
+        1. hi
+        2. Hi
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -104,7 +110,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
