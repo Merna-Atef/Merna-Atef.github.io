@@ -10,7 +10,7 @@ version: 2
 
 # Personal info
 name: Merna Bibars
-title: Teaching Assistant - Research Assistant at Systems & Biomedical Engineering Cairo University 
+title: Teaching & Research Assistant of Systems & Biomedical Engineering at Cairo University 
 email: merna.bibars@gmail.com
 website: merna-atef.github.io/
 
@@ -56,61 +56,170 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>Machine Learning</mark> and <mark>Research</mark>
 
+  Outside of academia, I enjoy hiking, drawing, reading, gaming and building Lego sets like the Bonsai Tree set.
+
 content:
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      - **In Print** cbsdibskj 
-        1. [DOI](https://doi.org/10.1007/978-3-031-48593-0_7)
+      - **In Print**
+        1. <mark>Bibars, M.</mark>, Salah, P. E., Eldeib, A., Elattar, M. A., & Yassine, I. A. (n.d.). “Cross-Modality Deep Transfer Learning: Application to Liver Segmentation in CT and MRI” In Waiter, G., Lambrou, T., Leontidis, G., Oren, N., Morris, T., Gordon, S. (eds) Medical Image Understanding and Analysis. MIUA 2023. Lecture Notes in Computer Science, vol "14122". Springer, Cham. [DOI](https://doi.org/10.1007/978-3-031-48593-0_7)
+        2. Salah, P. E., <mark>Bibars, M.</mark>, Eldeib, A., Ghanem, A. M., Gharib, A. M., Abd-Elmoniem, K. Z., Elattar, M. A., & Yassine, I. A. (n.d.). “Iterative Refinement Algorithm for Liver Segmentation Ground-Truth Generation using Fine-Tuning Weak Labels for CT and Structural MRI ”. In Waiter, G., Lambrou, T., Leontidis, G., Oren, N., Morris, T., Gordon, S. (eds) Medical Image Understanding and Analysis. MIUA 2023. Lecture Notes in Computer Science, vol 14122. Springer, Cham
+      - **Accepted**
+        1. Zein, F. O., Issam, F., Hesham, M., Nawar, M., Nofal, Y. H., <mark>Bibars, M.</mark>, & Sadek, I. 2023. "AI-Based Communication Tool for High-Functioning Autistic Children." IEEE EMBS International Conference on Data Science and Engineering in Healthcare, Medicine and Biology. Portomaso, Malta
       
-        2. [DOI](https://doi.org/10.1007/978-3-031-48593-0_7)
-      
-      - Accepted
-        1. hi
-      
-      - In Preparation
-        1. hi
-        2. Hi
+      - **In Preparation**
+        1. <mark>Bibars, M.</mark>, Salah, P. E., Eldeib, A., Elattar, M. A., & Yassine, I. A., “Learning from Weak Labels: An Ablation Study of State-of-the-Art Deep Learning Models for CT and MRI Liver Segmentation.”
+        2. Salah, P. E., <mark>Bibars, M.</mark>, Eldeib, A., Ghanem, A. M., Gharib, A. M., Abd-Elmoniem, K. Z., Elattar, M. A., & Yassine, I. A. “Automatic Multiclass Liver Fibrosis Grading from Multiple MRE Strain-Encoded Images using ANN.”
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        title: Biomedical & Systems Engineering, Cairo University
+        sub_title: Teaching Assistant
+        caption: 2020 - Present
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+          - Designing and implementing course curricula.
+          - Mentoring undergrads’ graduation projects
+      - layout: left
+        title: Egypt – USA NIH Joint Project
+        sub_title: Research Assistant
+        caption: 2021 - Present
+        description: | # this will include new lines to allow paragraphs
+          - Funded by Egypt’s Science and Technology Fund Institute. Project ID 45891- EG-US Cycle 20.
+          - “Developing Non-invasive Imaging Biomarkers for the Detection and Quantification of Inflammation in Hepatitis Infection”.
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Cairo University
+        caption: 2020 - 2023
+        sub_title: MSc. Biomedical & Systems Engineering
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Founded in 1908, Cairo University is the premier higher education institution in Egypt, and counts three Nobel Laureates among its graduates. It is the top university in Egypt.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+          - **GPA: 3.9/4.0**
+      - layout: left
+        title: Cairo University
+        caption: 2016 - 2020
+        sub_title: BSc. Biomedical & Systems Engineering
+        description: | # this will include new lines to allow paragraphs
+          - **GPA: 4.0/4.0**
+          - **Rank: 1st**
+  
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Tools & Languages
+        description: | # this will include new lines to allow paragraphs
+          - Desktop development: C++, OOP, PyQt5, MATLAB Designer.
+          - Technical development: MATLAB, Python, R.
+          - Simulation: ROS, Webots, Gazebo.
+          - Machine Learning: Scikit-learn, Tensorflow, PyTorch, Jupyter.
+          - Image processing: OpenCV, SciPy, Numpy, MeVis Lab, ITKSnap, DICOM, NIFTI.
+          - Web development: HTML, CSS, JS, Bootstrap, Angular, Ionic.
+          - Database: SQL
+          - Project Management: Agile workflow, Jira.
+      - layout: left
+        title: Soft Skills
+        description: | # this will include new lines to allow paragraphs
+          - Languages: Arabic, English.
+          - Literature review.
+          - Time-management.
+          - Teamwork.
+          - Leadership.
+          - Communication, and presentation skills.
+  - title: MSc. Thesis
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      **Iterative Refinement of Liver Segmentation Across Modalities As Accurate Preprocessing Step For Hepatic Tissue Analysis**
+      
+      *Deep Learning, TensorFlow, PyTorch, MeVisLab, ITKSnap, DICOM, NIFTI*
+      
+      Iterative refinement of weak annotations created by MeVisLab to segment the liver from MR images in order to grade liver fibrosis.
 
-      Look at this cool image  
-    #![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+  - title: Projects
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - **Graduation Project** : “Intention Decoding for Mode Switching of Upper-Limb Prosthetic Hand Using Computer Vision: An Evaluation Study using Simulation”. *ROS, Gazebo, Webots, Python, C++, Simulation, Deep Learning (PyTorch)* (Acc 99%), Transfer Learning.
+      - __Liver Segmentation__: CT volumes, LiTS Kaggle Dataset. U-net (93% Dice Metric)
+      - **Pneumonia classification**: X-ray 6 datasets. VGG-16, ResNet, Inception, VGG-16 (Acc 98.5%). [GitHub](https://github.com/Merna-Atef/pneumonia-detection-xray)
+      - **Egyptian Liver Fibrosis Grade Prediction**: Tabular data. Pre-processing/cleaning, features engineering, features selection, Random Forest, KNN, Bagging, Linear SVM (Acc 59.2%)
+      - **LSVT (Lee Silverman Voice Treatment) classification**: Accuracy (94.62%), features reduced from 310 to 6, Naïve Bayes & KNN classifiers, sequential forward feature selection, MATLAB. [GitHub](https://github.com/Merna-Atef/LSVT-classification)
+      - **Self-driving car**: real-time lane detection & following, obstacle avoidance. Image processing (filtering, edge detection, segmentation), Python, OpenCV, Ultrasound module, Arduino. [GitHub](https://github.com/gamilaaly/Autonomous-Car)
+      - **Computer Vison**: Python, OpenCV, PyQt5. GUI, Canny edge detection, Hough Transforms, Noise addition and filtering, Template Matching.
+      - **MRI Simulator**: Simulate MRI sequences on digital phantoms. Python, GUI, PyQt5, threading. [GitHub](https://github.com/Merna-Atef/MRI-)
+      - **Alzheimer smart care system**: sensors in home (FSR, flowmeter, thermistor, IR sensor), android application for patient & caregiver, Arduino C OOP (data acquisition and analysis). Patient monitoring.
+      - **Blood bank**: Web app. HTML5, CSS3, Bootstrap, NodeJS, Angular, MySQL. Bank database (donations & transfusions). Web access. Front-end [GitHub](https://github.com/youssefgamal84/bbms-front).
+      - **Attendance System**: Mobile app, flutter, face recognition, QR code.
+      - **Infection time**: Timeframes for infection spread in a matrix. Data structures (queue, linked list), C++.
+      - **Equalizer**: Music equalizer. MATLAB, MATLAB Designer, digital filters, DSP.
+      - **Signal Compressor**: Lossy, lossless signals (ECG, audio, 1-D US) compression algorithms. MATLAB, MATLAB Designer.
+
+  - title: Designed Courses # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Intro to Deep Learning
+        caption: 2021 - Present
+        description: | # this will include new lines to allow paragraphs
+          - [YouTube](https://youtube.com/playlist?list=PLa9SfMu7FWOS6kRZotbqoUrjs8FF1BMXE&si=FdGClVmMJspoaGNF)
+          - [Slides](https://drive.google.com/drive/folders/1BEALkX61qlg-RKD1NzfN-k4bsi6u-je8?usp=sharing)
+      - layout: left
+        title: Intro to Machine Learning
+        caption: 2021 - Present
+        description: | # this will include new lines to allow paragraphs
+          - [YouTube](https://youtube.com/playlist?list=PLa9SfMu7FWOS9pYH239KwpeqGZerxRRrP&si=JxVN9yByS5ZE3PTE)
+          - [Slides](https://drive.google.com/drive/folders/1BEALkX61qlg-RKD1NzfN-k4bsi6u-je8?usp=sharing)
+      - layout: left
+        title: Algorithms in Medicine
+        caption: 2021 - Present
+        description: | # this will include new lines to allow paragraphs
+          - [Slides](https://drive.google.com/drive/folders/1BEALkX61qlg-RKD1NzfN-k4bsi6u-je8?usp=sharing)
+      - layout: left
+        title: Biostatistics
+        caption: 2023 - 2024
+        description: | # this will include new lines to allow paragraphs
+          - [YouTube](https://youtube.com/playlist?list=PLgoV2Z6LzLPx_GlJDsZCDCxx-9wh27OuP&si=PapLwumlWDDSN8lr)
+          - [Slides](https://drive.google.com/drive/folders/1BEALkX61qlg-RKD1NzfN-k4bsi6u-je8?usp=sharing)
+      - layout: left
+        title: Biomedical Image Processing
+        caption: 2020 - 2022
+        description: | # this will include new lines to allow paragraphs
+          - [Slides](https://drive.google.com/drive/folders/1BEALkX61qlg-RKD1NzfN-k4bsi6u-je8?usp=sharing)
+      - layout: left
+        title: Advanced Topics in Image Processing & Computer Vision
+        caption: 2022 - 2022
+
+  - title: Activities & Honors
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Best Oral Paper Presenter MIUA conference 2023
+      - IEEE EMBS student chapter undergraduate research mentor 2023-2024
+      - SBME AI club moderator and coordinator 2021-2022
+      - Technical intern at Al Ahlyia company for medical equipment trading & distribution 2019
+      - BEAT student activity (scientific committee member) 2019
+      - Dean award for exceptional performance and top rank in the school year 2018
+      - Model student award 2016
+  
+  - title: Conferences
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - 27th International Medical Image Understanding and Analysis (MIUA) Conference - Presenter 2023
+      - 9th Cairo International Biomedical Engineering Conference (CIBEC) – Attendee 2018
+      - 3rd IEEE International Students’ Conference (ISC) - Attendee 2017
+  
+  - title: MOOCS
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Deep Learning.AI Supervised Machine Learning: Regression and Classification Course [Certificate](https://www.coursera.org/account/accomplishments/verify/NU36DKTU9GPX)
+      - Imperial College: Getting started with TensorFlow 2 Course [Certificate](https://coursera.org/share/57b3883eb38da4d513229b6f9709eb4f)
+      - Deep Learning.AI: Neural Networks and Deep Learning Course [Certificate](https://www.coursera.org/account/accomplishments/verify/SQ6GW4LNA2ZQ)
+      - Deep Learning.AI: Convolutional Neural Networks Course [Certificate](https://coursera.org/share/1fc38339cc2bf25a61ad7941cf68c46d)
+      - Johns Hopkins: Data Scientist’s Toolbox Course [Certificate](https://coursera.org/share/86c12271f4c11df16335189859ccf2a6)
 
 # Footer
 footer_show_references: true
