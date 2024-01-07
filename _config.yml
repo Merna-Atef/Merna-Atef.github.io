@@ -61,14 +61,11 @@ content:
         title: In Print
         link: https://doi.org/10.1007/978-3-031-48593-0_7
         link_text: DOI
-        quote: | >
+        description: | 
           <mark>Bibars, M.</mark>, Salah, P. E., Eldeib, A., Elattar, M. A., & Yassine, I. A. (n.d.). “Cross-Modality Deep Transfer Learning:
           Application to Liver Segmentation in CT and MRI” In Waiter, G., Lambrou, T., Leontidis, G., Oren, N., Morris, T.,
           Gordon, S. (eds) Medical Image Understanding and Analysis. MIUA 2023. Lecture Notes in Computer Science, vol
           14122. Springer, Cham.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
