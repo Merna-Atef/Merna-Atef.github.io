@@ -104,14 +104,14 @@ content:
         caption: 2024 - Present
         sub_title: Ph.D. in Machine Learning (Biomedical Engineering)
         quote: >
-          Founded in 1908, Cairo University is the premier higher education institution in Egypt, and counts three Nobel Laureates among its graduates. It is the top university in Egypt.
+          Georgia Tech is one of the premier and top ten research universities in the United States. Its engineering and computing Colleges are the largest and among the highest-ranked in the nation. 
         description: | # this will include new lines to allow paragraphs
       - layout: left
         title: Cairo University
         caption: 2020 - 2023
         sub_title: MSc. Biomedical & Systems Engineering
         quote: >
-          Georgia Tech is one of the premier and top ten research universities in the United States. Its engineering and computing Colleges are the largest and among the highest-ranked in the nation. 
+          Founded in 1908, Cairo University is the premier higher education institution in Egypt, and counts three Nobel Laureates among its graduates. It is the top university in Egypt.
       - layout: left
         title: Cairo University
         caption: 2016 - 2020
