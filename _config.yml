@@ -175,19 +175,19 @@ content:
     content:
       - layout: left
         title: Intro to Deep Learning
-        caption: 2021 - Present
+        caption: 2021 - 2024
         description: | # this will include new lines to allow paragraphs
           - [YouTube](https://youtube.com/playlist?list=PLa9SfMu7FWOS6kRZotbqoUrjs8FF1BMXE&si=FdGClVmMJspoaGNF)
           - [Slides](https://drive.google.com/drive/folders/1BEALkX61qlg-RKD1NzfN-k4bsi6u-je8?usp=sharing)
       - layout: left
         title: Intro to Machine Learning
-        caption: 2021 - Present
+        caption: 2021 - 2024
         description: | # this will include new lines to allow paragraphs
           - [YouTube](https://youtube.com/playlist?list=PLa9SfMu7FWOS9pYH239KwpeqGZerxRRrP&si=JxVN9yByS5ZE3PTE)
           - [Slides](https://drive.google.com/drive/folders/1BEALkX61qlg-RKD1NzfN-k4bsi6u-je8?usp=sharing)
       - layout: left
         title: Algorithms in Medicine
-        caption: 2021 - Present
+        caption: 2021 - 2024
         description: | # this will include new lines to allow paragraphs
           - [Slides](https://drive.google.com/drive/folders/1BEALkX61qlg-RKD1NzfN-k4bsi6u-je8?usp=sharing)
       - layout: left
