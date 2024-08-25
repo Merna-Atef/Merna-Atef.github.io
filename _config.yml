@@ -51,8 +51,7 @@ orcid_username: 0009-0006-7327-3933
 # about_title: About Me
 about_profile_image: images/merna.jpg
 about_content: | # this will include new lines to allow paragraphs
-  My name's Merna and I'm a Teaching & Research Assistant of Biomedical Engineering at Cairo University. I also hold a MSc. degree in Biomedical Engineering with a focus on machine learning for medical imaging.
-  I'm interested in pursuing a Ph.D. at the intersection of machine learning and medical imaging, specifically in learning from limited and multimodal medical data.
+  My name's Merna and I'm a PhD student in Machine Learning at Georgia Tech. I'm interested in research at the intersection of machine learning and healthcare, specifically in learning from limited and multimodal data. I was a Teaching & Research Assistant of Biomedical Engineering at Cairo University before that. I also hold a MSc. degree in Biomedical Engineering with a focus on machine learning for medical imaging.
 
   I am most skilled in: <mark>Machine Learning</mark> and <mark>Research</mark>
 
@@ -76,9 +75,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Machine Learning, Georgia Institute of Technology
+        sub_title: Graduate Research Assistant
+        caption: 2024 - Present
+        description: | # this will include new lines to allow paragraphs
+          - Working on machine learning in digital pathology and telehealth
+      - layout: left
         title: Biomedical & Systems Engineering, Cairo University
         sub_title: Teaching Assistant
-        caption: 2020 - Present
+        caption: 2020 - 2024
         description: | # this will include new lines to allow paragraphs
           - Designing and implementing course curricula.
           - Supervising undergrads' graduation projects
@@ -86,7 +91,7 @@ content:
       - layout: left
         title: Egypt – USA NIH Joint Project
         sub_title: Research Assistant
-        caption: 2021 - Present
+        caption: 2021 - 2024
         description: | # this will include new lines to allow paragraphs
           - Funded by Egypt’s Science and Technology Fund Institute. Project ID 45891- EG-US Cycle 20.
           - “Developing Non-invasive Imaging Biomarkers for the Detection and Quantification of Inflammation in Hepatitis Infection”.
@@ -95,13 +100,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Georgia Institute of Technology
+        caption: 2024 - Present
+        sub_title: Ph.D. in Machine Learning (Biomedical Engineering)
+        quote: >
+          Founded in 1908, Cairo University is the premier higher education institution in Egypt, and counts three Nobel Laureates among its graduates. It is the top university in Egypt.
+        description: | # this will include new lines to allow paragraphs
+      - layout: left
         title: Cairo University
         caption: 2020 - 2023
         sub_title: MSc. Biomedical & Systems Engineering
         quote: >
-          Founded in 1908, Cairo University is the premier higher education institution in Egypt, and counts three Nobel Laureates among its graduates. It is the top university in Egypt.
-        description: | # this will include new lines to allow paragraphs
-          - **GPA: 3.9/4.0**
+          Georgia Tech is one of the premier and top ten research universities in the United States. Its engineering and computing Colleges are the largest and among the highest-ranked in the nation. 
       - layout: left
         title: Cairo University
         caption: 2016 - 2020
